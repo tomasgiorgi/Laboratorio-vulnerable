@@ -58,7 +58,7 @@ Encontramos un portal de noticias internas de la empresa ficticia "Kalinasa". Al
 
 <img width="1599" height="517" alt="image" src="https://github.com/user-attachments/assets/9df96767-e1b6-4b7b-bb0d-99459eb85bb2" />
 
-Este tipo de descuido (dejar información sensible en comentarios del código fuente) es una vulnerabilidad real y común, catalogada como *exposición de información sensible*.
+Este tipo de descuido (dejar información sensible en comentarios del código fuente) es una vulnerabilidad real y común.
 
 ### 3. Descubrimiento de directorios y archivos ocultos
 
@@ -136,7 +136,7 @@ http://192.168.56.107/buscar.php?nombre=' UNION SELECT user, password FROM users
 
 <img width="947" height="344" alt="image" src="https://github.com/user-attachments/assets/e7ec4bce-9b0f-4f1e-8bc1-d5706c1f4c56" />
 
-Con esto obtenemos todos los usuarios registrados junto con sus hashes de contraseña.
+Con esto obtenemos todos los usuarios registrados junto con sus contraseñas en texto plano.
 
 ### 7. Credenciales en texto plano
 
